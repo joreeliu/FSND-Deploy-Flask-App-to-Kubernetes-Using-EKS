@@ -23,6 +23,7 @@ htmlcov/
 .coverage
 .coverage.*
 *,cover
+.env_file
 
 # Direnv
 .envrc
